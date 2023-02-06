@@ -71,3 +71,16 @@ module.exports = {
     return res.json(updatedUser);
   },
 };
+
+
+// Add User Mutation - POST
+// Login Mutation - POST
+// Save book mutation - PUT
+// Remove book mutation - DELETE
+
+
+// deleting controllers and routes
+// replacing them with schemas (typeDefs & Resolvers)
+
+// typeDef identifies elements for GraphQL
+// resolvers resolves them.
